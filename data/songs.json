@@ -1,1 +1,15 @@
-File available in local workspace at /mnt/data/github-direct-upload/extracted/OFFBEAT-Backend-v1/data/songs.json
+[
+  {
+    "id": "lover-demo",
+    "title": "Lover",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "sourceNote": "Short excerpt provided by the user for the demo.",
+    "lines": [
+      "We could let our friends crash in the living room",
+      "This is our place, we make the call",
+      "And I'm highly suspicious that everyone who sees you wants you",
+      "I've loved you three summers now, honey, but I want 'em all"
+    ]
+  }
+]

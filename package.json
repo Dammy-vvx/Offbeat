@@ -1,1 +1,16 @@
-File available in local workspace at /mnt/data/github-direct-upload/extracted/OFFBEAT-Backend-v1/package.json
+{
+  "name": "offbeat-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
